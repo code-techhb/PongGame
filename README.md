@@ -1,18 +1,18 @@
-#Pong Game
+# Pong Game
 Welcome to the classic Pong Game implemented using Python's Turtle graphics library! 
 This project recreates the timeless arcade game where two players compete to hit a bouncing ball with paddles. 
 The goal is to score points by making your opponent miss the ball.
 
-#Features
+# Features
 1.Responsive controls: Easy-to-use controls for smooth gameplay.
 2.Realistic ball physics: Ball speeds up and bounces realistically off paddles and walls.
 3.Score tracking: Keep track of scores on the screen.
 4.Visual elements: Dashed line in the center for a classic Pong look.
 
-#Run The Game
+# Run The Game
 After Cloning the repo and opening it in your favorite IDE, run the main.py file.
 
-#How to Play
+# How to Play
 Right Paddle Controls:
 Move Up: Up Arrow Key
 Move Down: Down Arrow Key
